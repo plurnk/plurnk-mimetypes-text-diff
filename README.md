@@ -1,3 +1,5 @@
+> **ABSORBED into the plurnk platform monorepo** — code, history, and issues now live in [`plurnk/plurnk-service`](https://github.com/plurnk/plurnk-service) under `plurnk-mimetypes-text-diff/`. This repo is an archived snapshot.
+
 # @plurnk/plurnk-mimetypes-text-diff
 
 `text/x-diff` mimetype handler for the [plurnk](https://github.com/plurnk) ecosystem. Parses unified, plain (`diff -u`), and combined/merge (`diff --cc`) diffs with a hand-rolled line-budget scanner — **no parser dependency**.
